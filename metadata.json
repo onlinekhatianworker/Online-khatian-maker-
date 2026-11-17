@@ -1,0 +1,6 @@
+{
+  "name": "Online Khatian Maker",
+  "description": "Offline-first, zero-persistence digital land survey Khatian (CS, SA, RS, BS, BRS, BDRS, City Survey, Custom) draft creator and PDF/Print generator for Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
